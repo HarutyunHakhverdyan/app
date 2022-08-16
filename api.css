@@ -1,0 +1,19 @@
+img{
+	width: 20%
+}
+#title{
+	height: 100px;
+	background-color: #f2c599
+}
+p{
+	display: flex; 
+	justify-content: center;
+	font-size: 60px;
+	color: red;
+	background-color: aqua;
+}
+#container{
+	color: #4fff00;
+	background-image: url(  "https://cdn2.thecatapi.com/images/_6x-3TiCA.jpg");
+	width: 100%
+}
